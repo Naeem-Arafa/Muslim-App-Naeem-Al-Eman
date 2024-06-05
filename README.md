@@ -1,6 +1,6 @@
 # Muslim-App-Naeem-Al-Eman
 
-Muslim-App-Naeem-Al-Eman is designed to support and enhance the daily lives of Muslims by providing a comprehensive set of features aimed at fostering faith, knowledge, and community. This C# desktop application focuses on improving backend logic, using clean, readable, and reusable code, while connecting many files or forms together.
+Muslim-App-Naeem-Al-Eman is designed to support and enhance the daily lives of Muslims by providing a comprehensive set of features aimed at fostering faith, knowledge, and community. This C# desktop application built on the .NET framework focuses on improving backend logic, using clean, readable, and reusable code, while connecting many files or forms together.
 
 ## Features
 
@@ -68,6 +68,7 @@ To clone the app to your device, follow these steps:
     cd Muslim-App-Naeem-Al-Eman
     ```
 2. Navigate to the project directory you want to explore.
+3. Open the project by locating the `.sln` file in the project directory and opening it in your preferred C# development environment (e.g., Visual Studio). This ensures that the files are organized and filtered appropriately.
 
 ## How to Fork the App
 
@@ -83,7 +84,7 @@ To fork the app repository, follow these steps:
     ```sh
     cd Muslim-App-Naeem-Al-Eman
     ```
-5. **Open the Project**: Open the project in your preferred C# development environment (e.g., Visual Studio).
+5. **Open the Project**: Open the project by locating the .sln file in the project directory and opening it in your preferred C# development environment (e.g., Visual Studio). This ensures that the files are organized and filtered appropriately.
 
 
 ## Contact
